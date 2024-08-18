@@ -1,0 +1,16 @@
+# Swift Package Manager
+.build/
+Packages/
+.swiftpm/
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+*.DS_Store
+
+# VSCode
+.vscode/
